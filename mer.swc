@@ -1,0 +1,27 @@
+# Original file c91662.swc edited using StdSwc version 1.31 on 11/10/13.
+# Irregularities and fixes documented in c91662.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\Uzma\ErrorArchives\ToBeProcessed\Amaral\asc\c91662.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+# NEUROMANTIC V1.6.3 (10/18/2013 6:55:13 PM): Saved to c91662-T1.swc
+1 1 0.0 0.0 0.0 8.8677 -1
+2 1 1.13 8.71 1.2 8.8677 1
+3 1 -1.13 -8.71 -1.2 8.8677 1
+4 4 -1.86 11.06 -0.47 1.85 1
+5 4 -1.94 19.75 -0.65 1.6 4
+6 4 -2.52 31.1 -1.23 1.35 5
+7 4 -2.94 39.91 -2.02 1.35 6
+8 4 -2.55 49.45 -1.47 1.1 7
+9 4 -2.61 56.49 -0.77 1.1 8
+10 4 -1.17 70.15 -1.59 1.1 9
+11 4 2.04 83.45 -1.43 1.1 10
+12 4 1.89 91.65 -1.68 1.1 11
+13 4 4.35 106.58 -1.57 1.1 12
+14 4 5.09 115.06 -1.02 1.1 13
+15 4 7.16 126.11 -1.93 1.1 14
+16 4 7.13 129.63 -1.58 1.1 15
+17 4 9.19 135.02 -2.02 1.1 16
+18 4 11.82 145.77 -1.23 1.1 17
+19 4 13.47 151.73 -1.73 0.9 18
+20 4 14.65 157.05 -0.86 0.9 19
